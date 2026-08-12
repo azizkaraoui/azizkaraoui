@@ -26,43 +26,13 @@ I enjoy designing and building systems that solve real problems, from cloud infr
 
 ## 🛠️ Tech Stack
 
-### Backend & Frontend
-
-- Spring Boot
-- Angular
-- Ruby on Rails
-- REST APIs
-- Microservices
-
-### Cloud & DevOps
-
-- AWS
-- Azure
-- Docker
-- Kubernetes
-- Terraform
-- Ansible
-- OpenStack
-
-### Automation
-
-- n8n
-- Microsoft Power Automate
-
-### Databases & Storage
-
-- PostgreSQL
-- MySQL
-- MinIO
-- Amazon S3
-
-### Monitoring & Infrastructure
-
-- Prometheus
-- Grafana
-- Nginx
-- Traefik
-- Linux
+| Category | Technologies |
+|-----------|--------------|
+| 💻 Development | Spring Boot • Angular • Ruby on Rails • REST APIs • Microservices |
+| ☁️ Cloud & DevOps | AWS • Azure • Docker • Kubernetes • Terraform • Ansible • OpenStack |
+| ⚙️ Automation | n8n • Microsoft Power Automate |
+| 🗄️ Databases | PostgreSQL • MySQL • MinIO • Amazon S3 |
+| 📊 Monitoring | Prometheus • Grafana • Nginx • Traefik • Linux |
 
 ---
 
