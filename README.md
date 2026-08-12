@@ -26,17 +26,6 @@ I enjoy designing and building systems that solve real problems, from cloud infr
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?the-badge&logo=openjdk&logoColor=white
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=or=white
-  .shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  .io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-</p>
-
 ### Backend & Frontend
 
 - Spring Boot
@@ -79,14 +68,16 @@ I enjoy designing and building systems that solve real problems, from cloud infr
 
 ## 📌 Featured Projects
 
-### 🏥 DICOMweb Microservice
-Go-based microservice for medical imaging workflows and healthcare interoperability.
+
 
 ### 🎓 SkillExchange
 Full-stack platform built with Spring Boot and Angular.
 
 ### 🏢 Com&Dev
 Leave management application developed with Ruby on Rails and Angular.
+
+### ✈️ Tunisair Operations Platform
+Enterprise web application developed during my internship, focused on digitalizing operational workflows.
 
 ### 🔄 High Availability Cluster
 Built using Pacemaker, Corosync, GFS2, LVM, and automated with Ansible.
