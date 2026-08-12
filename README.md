@@ -1,16 +1,122 @@
-## Hi there 👋
+# Hey, I'm Aziz 👋
 
-<!--
-**azizkaraoui/azizkaraoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about building scalable systems, automating workflows, and exploring cloud technologies.
 
-Here are some ideas to get you started:
+🎓 Final-year Engineering Student at **ESPRIT**  
+🇫🇷 Currently completing my graduation internship at **EssilorLuxottica** in France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I enjoy designing and building systems that solve real problems, from cloud infrastructure and automation pipelines to full-stack applications and distributed systems.
+
+### Interests
+
+- ☁️ Cloud & DevOps
+- 🧩 Backend Engineering
+- ⚙️ Automation & Workflow Engineering
+- 🤖 AI Integrations
+- 🐳 Containers & Orchestration
+- 🔐 Infrastructure & Security
+- 💻 Full-Stack Development
+- 🌐 Distributed Systems
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor[Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=oColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=dge&logo=python&logoColor=white
+![TypeScript](https://img.shields.io/pt-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-Fr-the-badge&logo=javascript&logoColor=black
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-theogo=ruby&logoColor=white
+
+### Backend & Frontend
+
+- Spring Boot
+- Angular
+- Ruby on Rails
+- REST APIs
+- Microservices
+
+### Cloud & DevOps
+
+- AWS
+- Azure
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+- OpenStack
+
+### Automation
+
+- n8n
+- Microsoft Power Automate
+
+### Databases & Storage
+
+- PostgreSQL
+- MySQL
+- MinIO
+- Amazon S3
+
+### Monitoring & Infrastructure
+
+- Prometheus
+- Grafana
+- Nginx
+- Traefik
+- Linux
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 DICOMweb Microservice
+Go-based microservice for medical imaging workflows and healthcare interoperability.
+
+### 🎓 SkillExchange
+Full-stack platform built with Spring Boot and Angular.
+
+### 🏢 Com&Dev
+Leave management application developed with Ruby on Rails and Angular.
+
+### 🔄 High Availability Cluster
+Built using Pacemaker, Corosync, GFS2, LVM, and automated with Ansible.
+
+### ☁️ Cloud & DevOps Labs
+Projects involving Docker, Kubernetes, Terraform, OpenStack, automation, and CI/CD pipelines.
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Cloud Architecture
+- Advanced Kubernetes
+- DevOps & Infrastructure Engineering
+- Elixir & Functional Programming
+- AI-Powered Applications
+
+---
+
+## 🏆 Certifications
+
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
+- Multicloud Network Associate
+- AWS Academy Graduate
+
+---
+
+## 🎯 Outside of Tech
+
+🏐 Volleyball • ⚽ Football • 🤸 Calisthenics • 🏄 Surfing • 🎮 Gaming
+
+---
+
+> *I don't know everything. I just enjoy figuring things out.*
