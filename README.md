@@ -28,11 +28,12 @@ I enjoy designing and building systems that solve real problems, from cloud infr
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor[Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=oColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=dge&logo=python&logoColor=white
-![TypeScript](https://img.shields.io/pt-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-Fr-the-badge&logo=javascript&logoColor=black
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-theogo=ruby&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white
 
 ### Backend & Frontend
 
